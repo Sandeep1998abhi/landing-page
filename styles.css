@@ -227,12 +227,7 @@ span{
   .menu ul {
       display: block;
       max-height: 0;
-    overflow: hidden;
-    -webkit-transition: max-height 0.3s;
-    -moz-transition: max-height 0.3s;
-      -ms-transition: max-height 0.3s;
-      -o-transition: max-height 0.3s;
-    transition: max-height 0.3s;
+      overflow: hidden;
   }
   .menu ul a {
       text-align: left;
